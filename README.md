@@ -2,8 +2,6 @@
 
 ### I am passionate about all things data continuously learning new skills and tools.
 
-Data Analyst currently working at a startup in the Healthcare industry with a rigorous education in engineering, statistics, and science. I am passionate about finding ways to solve complex problems and generate meaningful value out of data. The world of big data is here to stay and we have only scratched the surface of the value it can provide us!
-
 - 💸 I'm currently working at a startup as a Data Analyst
 - ☁️ I'm currently learning to apply data engineering techniques in the cloud (AWS)
 - 💡 I'm looking to collaborate on ways I can apply my skills in innovative and impactful ways

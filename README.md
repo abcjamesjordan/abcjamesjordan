@@ -2,7 +2,7 @@
 
 ### I am passionate about all things data continuously learning new skills and tools.
 
-- 💸 I'm currently working at a startup as a Data Analyst
+- 💸 I'm currently working as a Data Engineer
 - ☁️ I'm currently learning to apply data engineering techniques in the cloud (AWS)
 - 💡 I'm looking to collaborate on ways I can apply my skills in innovative and impactful ways
 - 🤔 I’m looking for help with how I can up my web development skills

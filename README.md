@@ -5,7 +5,7 @@
 - 💸 I'm currently working as a Data Engineer
 - ☁️ I'm currently learning to apply data engineering techniques in the cloud (AWS)
 - 💡 I'm looking to collaborate on ways I can apply my skills in innovative and impactful ways
-- 🤔 I’m looking for help with how I can up my web development skills
+- 🤔 I’m looking for help with how I can up my spark/databricks skills
 - ☀️ Check out my melanoma awareness website I made --> [billwalteriii.org](https://www.billwalteriii.org)
 
 ### Tech

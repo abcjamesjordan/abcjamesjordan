@@ -22,8 +22,8 @@ I'm a Data Engineer passionate about leveraging data to drive impactful changes 
 </div>
 
 ### Core Skills
-- 🐍 Python (Polars, DuckDB, Pandas, SQLAlchemy)
-- 📊 SQL (PostgreSQL, Redshift, Presto, T-SQL)
+- 🐍 Python (Polars, Pandas, SQLAlchemy, Psycopg2/3)
+- 📊 SQL (PostgreSQL, SQL Server, DuckDB, T-SQL)
 - ⚡ Data Pipeline Tools (Airflow, Jenkins, dbt)
 - 🤖 ML/NLP (PyTorch, fast.ai, spaCy, HuggingFace)
 - 🎯 BI Tools (Streamlit, Tableau, DataStudio)

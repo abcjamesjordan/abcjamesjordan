@@ -5,7 +5,7 @@ I'm a Data Engineer passionate about leveraging data to drive impactful changes 
 ### What I'm up to
 - 🏥 Building data solutions in the healthcare sector
 - ☁️ AWS Certified Cloud Practitioner
-- 📚 Working towards AWS Certified Data Engineer
+- 📚 Working on my AI sentiment analysis project [here](https://github.com/abcjamesjordan/Bitcoin-Sentiment-Analysis-Pipeline)
 - 💡 Open to collaborating on impactful data projects
 - ☀️ Check out my melanoma awareness website --> [billwalteriii.org](https://www.billwalteriii.org)
 
@@ -25,7 +25,7 @@ I'm a Data Engineer passionate about leveraging data to drive impactful changes 
 - 🐍 Python (Polars, Pandas, SQLAlchemy, Psycopg2/3)
 - 📊 SQL (PostgreSQL, SQL Server, DuckDB, T-SQL)
 - ⚡ Data Pipeline Tools (Airflow, Jenkins, dbt)
-- 🤖 ML/NLP (PyTorch, fast.ai, spaCy, HuggingFace)
+- 🤖 AI/LLM (Gemini AI)
 - 🎯 BI Tools (Streamlit, Tableau, DataStudio)
 - 🌐 Web Scraping & Alexa Skills Development
 
